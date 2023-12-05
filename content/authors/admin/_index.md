@@ -125,5 +125,6 @@ During my undergraduate, I actively conducted three research projects on generat
 
 Currently, my research interests lie in developing and applying interpretable, controllable, and efficient generative modeling methods to facilitate advancements in vision-language(mainly text-to-image) generation, scientific discovery(e.g. 2D/3D molecule generation), and robotics(e.g. 3D object/scene/video generation).
 
-To learn more about me, please view my [CV](uploads/resume.pdf). Feel free to contact me at [bearzy@zju.edu.cn](mailto:bearzy@zju.edu.cn) or [zyxiong@mit.edu](mailto:zyxiong@mit.edu) if you'd like to chat!
+To learn more about me, please view my [CV](uploads/resume.pdf). 
+Feel free to contact me at [bearzy@zju.edu.cn](mailto:bearzy@zju.edu.cn) or [zyxiong@mit.edu](mailto:zyxiong@mit.edu) if you'd like to chat!
 {style="text-align: justify; font-size=16px;"}

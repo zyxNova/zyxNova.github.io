@@ -112,18 +112,18 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am pursuing a bachelor’s degree in computer science at Zhejiang University, along with a "Mixed class" honors program from Chu Kochen Honors College. I had the privilege of undertaking a research internship at MIT CSAIL, where I worked on generative modeling algorithms under [Prof. Tommi Jaakkola](https://people.csail.mit.edu/tommi/tommi.html).
+I am pursuing a BS in computer science at Zhejiang University, where I placed **first among 81 peers in the "mixed class" honors program, with a GPA of 93.84% (4.0/4.0)**. 
 
-During my undergraduate, I am very fortunate to collaborate with Ph.D. students [Yilun Xu](https://yilun-xu.com/) from MIT and [Yuanqi Du](https://yuanqidu.github.io/) from Cornell. I also valued the mentorship of [Prof. Yingcai Wu](http://www.ycwu.org/) and [Prof. Xiao Xie](https://ssxiexiao.github.io/) at ZJU.
+During my undergraduate, I actively conducted three research projects on generative modeling. I had the privilege of undertaking a research internship at MIT CSAIL under [Prof. Tommi Jaakkola](https://people.csail.mit.edu/tommi/tommi.html). I am very fortunate to collaborate with Ph.D. students [Yilun Xu](https://yilun-xu.com/) from MIT and [Yuanqi Du](https://yuanqidu.github.io/) from Cornell. Before that, I valued the mentorship of [Prof. Yingcai Wu](http://www.ycwu.org/) and [Prof. Xiao Xie](https://ssxiexiao.github.io/) on visualizations of causal inference at ZJU.
 
-Currently, my research interests lie in developing and applying interpretable, controllable, and efficient generative modeling methods to facilitate advancements in vision-language generation(mainly text-to-image generation), scientific discovery(e.g. 2D/3D molecule generation), and robotics(e.g. 3D object/scene/video generation).
+Currently, my research interests lie in developing and applying interpretable, controllable, and efficient generative modeling methods to facilitate advancements in vision-language(mainly text-to-image) generation, scientific discovery(e.g. 2D/3D molecule generation), and robotics(e.g. 3D object/scene/video generation).
 
-To learn more about me, please view my [CV](uploads/resume.pdf).
+To learn more about me, please view my [CV](uploads/resume.pdf). Feel free to contact me at [bearzy@zju.edu.cn](mailto:bearzy@zju.edu.cn) or [zyxiong@mit.edu](mailto:zyxiong@mit.edu) if you'd like to chat!
 {style="text-align: justify; font-size=16px;"}

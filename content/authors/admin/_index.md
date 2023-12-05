@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 熊子宇
+title: Ziyu Xiong
 
 # Name pronunciation (optional)
-name_pronunciation: Ziyu Xiong
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ziyu
@@ -17,10 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CS Undergraduate @ CKC, ZJU
+role: CS Undergrad 24'
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Mix Class, CKC Honors College
+    url: http://ckc.zju.edu.cn/main.htm
   - name: Zhejiang University
     url: https://www.zju.edu.cn/
 
@@ -39,10 +41,10 @@ education:
   courses:
     - course: Visiting Student
       institution: Massachusetts Institute of Technology
-      year: July 2023- Nov 2023
-    - course: B.S. in Mix Class, Computer Science
+      year: July 2023 - Nov 2023
+    - course: B.S. in Computer Science
       institution: Zhejiang University
-      year: Sep 2020 - June 2024(Expected)
+      year: Sep 2020 - June 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -117,7 +119,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I am Ziyu Xiong. I am pursuing my bachelor's degree in computer science and technology at Zhejiang University and an honor degree from Mix Class, Chu Kochen Honors College. I was privileged to conduct a research internship on generative modeling algorithms under Prof. Tommi Jaakkola at MIT CSAIL. During my undergraduate, I am very fortunate to work closely with Ph.D. students Yilun Xu from MIT and Yuanqi Du from Cornell. I was also honored to be advised by Prof. Yingcai Wu and Prof. Xiao Xie at ZJU.
+I am pursuing my bachelor's degree in computer science at Zhejiang University and an honor degree from Mix Class, Chu Kochen Honors College. I was privileged to conduct a research internship on generative modeling algorithms under [Prof. Tommi Jaakkola](https://people.csail.mit.edu/tommi/tommi.html) at MIT CSAIL. During my undergraduate, I am very fortunate to work closely with Ph.D. students [Yilun Xu](https://yilun-xu.com/) from MIT and [Yuanqi Du](https://yuanqidu.github.io/) from Cornell. I was also honored to be advised by [Prof. Yingcai Wu](http://www.ycwu.org/) and [Prof. Xiao Xie](https://ssxiexiao.github.io/) at ZJU.
 
-My research interests currently lie in developing and applying interpretable, controllable, and efficient generative modeling methods to facilitate advancements in vision-language generation(mainly text-to-image generation), scientific discovery(especially 2D & 3D small molecule generation), and robotics(such as the generation of 3D objects, scenes, and videos).
-{style="text-align: justify;"}
+My research interests currently lie in developing and applying interpretable, controllable, and efficient generative modeling methods to facilitate advancements in vision-language generation(mainly text-to-image generation), scientific discovery(especially 2D & 3D molecule generation), and robotics(such as the generation of 3D objects, scenes, and videos).
+{style="text-align: justify; font-size=16px;"}

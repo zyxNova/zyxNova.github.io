@@ -114,12 +114,14 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/uploads/resume.pdf
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am pursuing my bachelor's degree in computer science at Zhejiang University and an honor degree from Mix Class, Chu Kochen Honors College. I was privileged to conduct a research internship on generative modeling algorithms under [Prof. Tommi Jaakkola](https://people.csail.mit.edu/tommi/tommi.html) at MIT CSAIL. During my undergraduate, I am very fortunate to work closely with Ph.D. students [Yilun Xu](https://yilun-xu.com/) from MIT and [Yuanqi Du](https://yuanqidu.github.io/) from Cornell. I was also honored to be advised by [Prof. Yingcai Wu](http://www.ycwu.org/) and [Prof. Xiao Xie](https://ssxiexiao.github.io/) at ZJU.
+I am pursuing a bachelor’s degree in computer science at Zhejiang University, along with a "Mixed class" honors program from Chu Kochen Honors College. I had the privilege of undertaking a research internship at MIT CSAIL, where I worked on generative modeling algorithms under [Prof. Tommi Jaakkola](https://people.csail.mit.edu/tommi/tommi.html). During my undergraduate, I am very fortunate to collaborate with Ph.D. students [Yilun Xu](https://yilun-xu.com/) from MIT and [Yuanqi Du](https://yuanqidu.github.io/) from Cornell. I also cherished the opportunity to receive guidance from [Prof. Yingcai Wu](http://www.ycwu.org/) and [Prof. Xiao Xie](https://ssxiexiao.github.io/) at ZJU.
 
-My research interests currently lie in developing and applying interpretable, controllable, and efficient generative modeling methods to facilitate advancements in vision-language generation(mainly text-to-image generation), scientific discovery(especially 2D & 3D molecule generation), and robotics(such as the generation of 3D objects, scenes, and videos).
+Currently, my research interests lie in developing and applying interpretable, controllable, and efficient generative modeling methods to facilitate advancements in vision-language generation(mainly text-to-image generation), scientific discovery(e.g. 2D/3D molecule generation), and robotics(e.g. 3D object/scene/video generation).
+
+To learn more about me, please view my [CV](uploads/resume.pdf).
 {style="text-align: justify; font-size=16px;"}
